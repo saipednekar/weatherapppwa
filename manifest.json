@@ -1,0 +1,23 @@
+{
+  "name": "weatherpwa",
+  "short_name": "weatherpwa",
+  "theme_color": "#c5d4df",
+  "background_color": "#0a0f13",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.jpeg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+
+}
