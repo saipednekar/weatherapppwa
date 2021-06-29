@@ -1,6 +1,6 @@
 {
   "name": "weatherpwa",
-  "short_name": "weatherpwa",
+  "short_name": "weather",
   "theme_color": "#c5d4df",
   "background_color": "#0a0f13",
   "display": "standalone",
